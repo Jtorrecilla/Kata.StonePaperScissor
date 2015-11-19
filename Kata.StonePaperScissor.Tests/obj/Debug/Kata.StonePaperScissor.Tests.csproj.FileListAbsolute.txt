@@ -1,0 +1,7 @@
+c:\users\jtorrecip\documents\visual studio 2013\Projects\Kata.StonePaperScissor\Kata.StonePaperScissor.Tests\obj\Debug\Kata.StonePaperScissor.Tests.csprojResolveAssemblyReference.cache
+c:\users\jtorrecip\documents\visual studio 2013\Projects\Kata.StonePaperScissor\Kata.StonePaperScissor.Tests\bin\Debug\Kata.StonePaperScissor.Tests.dll
+c:\users\jtorrecip\documents\visual studio 2013\Projects\Kata.StonePaperScissor\Kata.StonePaperScissor.Tests\bin\Debug\Kata.StonePaperScissor.Tests.pdb
+c:\users\jtorrecip\documents\visual studio 2013\Projects\Kata.StonePaperScissor\Kata.StonePaperScissor.Tests\bin\Debug\ClassLibrary1.dll
+c:\users\jtorrecip\documents\visual studio 2013\Projects\Kata.StonePaperScissor\Kata.StonePaperScissor.Tests\bin\Debug\ClassLibrary1.pdb
+c:\users\jtorrecip\documents\visual studio 2013\Projects\Kata.StonePaperScissor\Kata.StonePaperScissor.Tests\obj\Debug\Kata.StonePaperScissor.Tests.dll
+c:\users\jtorrecip\documents\visual studio 2013\Projects\Kata.StonePaperScissor\Kata.StonePaperScissor.Tests\obj\Debug\Kata.StonePaperScissor.Tests.pdb

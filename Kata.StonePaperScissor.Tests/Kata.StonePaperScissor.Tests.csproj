@@ -57,7 +57,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\Kata.StonePaperScissor.Core.csproj">
+    <ProjectReference Include="..\Kata.StonePaperScissor.Core\Kata.StonePaperScissor.Core.csproj">
       <Project>{6fd03eb9-e5d9-4500-a0e7-281123c6b8be}</Project>
       <Name>Kata.StonePaperScissor.Core</Name>
     </ProjectReference>

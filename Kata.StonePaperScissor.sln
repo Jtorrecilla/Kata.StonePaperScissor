@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata.StonePaperScissor.Core", "ClassLibrary1\Kata.StonePaperScissor.Core.csproj", "{6FD03EB9-E5D9-4500-A0E7-281123C6B8BE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata.StonePaperScissor.Core", "Kata.StonePaperScissor.Core\Kata.StonePaperScissor.Core.csproj", "{6FD03EB9-E5D9-4500-A0E7-281123C6B8BE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata.StonePaperScissor.Tests", "Kata.StonePaperScissor.Tests\Kata.StonePaperScissor.Tests.csproj", "{8FA1A4E4-D32C-4EC4-822F-43AF8A336A90}"
 EndProject

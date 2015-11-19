@@ -1,4 +1,0 @@
-c:\users\jtorrecip\documents\visual studio 2013\Projects\Kata.StonePaperScissor\ClassLibrary1\bin\Debug\ClassLibrary1.dll
-c:\users\jtorrecip\documents\visual studio 2013\Projects\Kata.StonePaperScissor\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
-c:\users\jtorrecip\documents\visual studio 2013\Projects\Kata.StonePaperScissor\ClassLibrary1\obj\Debug\ClassLibrary1.dll
-c:\users\jtorrecip\documents\visual studio 2013\Projects\Kata.StonePaperScissor\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

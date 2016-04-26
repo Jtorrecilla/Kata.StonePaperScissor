@@ -9,23 +9,17 @@ namespace Kata.StonePaperScissor.Core
 {
     public static class PlayerFactory
     {
+        internal static Dictionary<ePlayerType, Func<Player>> playerTypes = new Dictionary<ePlayerType, Func<Player>>
+            {
+                {ePlayerType.Stone, () => new Stone()},
+                {ePlayerType.Paper, () => new Paper()},
+                {ePlayerType.Scissor, () => new Scissor()},
+                {ePlayerType.Spock, () => new Spock()},
+                {ePlayerType.Lizzard, () => new Lizzard()}
+            };
         public static Player Create(ePlayerType playerType)
         {
-            switch (playerType)
-            {
-                case ePlayerType.Stone:
-                    return new Stone();
-                case ePlayerType.Paper:
-                    return new Paper();
-                case ePlayerType.Scissor:
-                    return new Scissor();
-                case ePlayerType.Spock:
-                    return new Spock();
-                case ePlayerType.Lizzard:
-                    return new Lizzard();
-                default:
-                    return null;
-            }
+            return playerTypes.First(p => p.Key == playerType).Value.Invoke();
         }
     }
 }
